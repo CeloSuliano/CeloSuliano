@@ -3,7 +3,15 @@
      Garanta que o arquivo banner.png esteja na raiz do repositório.
    =========================== -->
 
-![Banner](./banner.png)
+<!-- Banner principal -->
+<p align="center">
+  <img src="./banner.gif" alt="Marcelo.exe — Coding Health & Finance with AI" width="100%">
+</p>
+
+<!-- Fallback para PNG -->
+<p align="center">
+  <img src="./banner.png" alt="Marcelo.exe — Coding Health & Finance with AI" width="100%">
+</p>
 
 <!-- ===========================
      README principal
