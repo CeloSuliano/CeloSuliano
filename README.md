@@ -1,16 +1,17 @@
 <!-- ===========================
-     BANNER (SVG inline)
-     Copie exatamente como está abaixo para manter o visual.
+     BANNER (PNG static)
+     Garanta que o arquivo banner.png esteja na raiz do repositório.
    =========================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CeloSuliano/CeloSuliano/refs/heads/main/banner.svg" width="100%" alt="Marcelo.exe – Coding Health & Finance with AI" />
-</p>
+
+![Banner](./banner.png)
 
 <!-- ===========================
      README principal
    =========================== -->
 
-# 🤖 Marcelo.exe — Coding Health & Finance with AI
+# 🤖 Marcelo.exe — Coding Health & Finance with AI  
+<sup>Integrando Saúde, Finanças e Inteligência Artificial</sup>
+
 **Marcelo Suliano de Freitas** · Desenvolvedor Python em formação · Integrando IA, Saúde e Finanças  
 *Marcelo Suliano de Freitas · Python Developer in training · Bridging AI, Health & Finance*
 
@@ -20,7 +21,8 @@
 Sou um desenvolvedor em formação com foco em **Python**, **IA (LLMs/RAG)** e aplicações práticas para **HealthTech** e **FinTech**.  
 Gosto de construir coisas que resolvem problemas reais, automatizam processos e tornam decisões mais claras — sempre com um toque humano.
 
-*I'm a developer-in-training focused on Python, AI (LLMs/RAG) and practical applications for HealthTech and FinTech. I like building things that solve real problems, automate workflows and make decisions clearer — with a human touch.*
+*I'm a developer-in-training focused on Python, AI (LLMs/RAG), and practical applications for HealthTech and FinTech.  
+I like building things that solve real problems, automate workflows, and make decisions clearer — with a human touch.*
 
 > _Tento explicar IA pro meu gato e ele ainda não investiu em ETFs._ 🐈📈  
 > _Trying to explain AI to my cat — still no ETF buys._ 😄
@@ -41,59 +43,65 @@ Badges quick-view — clone, customize or replace the shields below as you wish.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![APIs](https://img.shields.io/badge/-APIs-6c5ce7?style=for-the-badge)
 
-*Principais tecnologias que tenho estudado e usado. — Main technologies I'm studying and using.*
+*Principais tecnologias que tenho estudado e usado — Main technologies I'm studying and using.*
 
 ---
 
 ## 🛠️ Ferramentas & Workflows
-- Python (scripts, automações, ETL leve) — *Python scripts & automation*  
-- LLMs + RAG pipelines (provas de conceito) — *LLMs + Retrieval-Augmented Generation*  
-- Pandas / Data engineering básico — *data handling & transformation*  
-- Integração com APIs (OpenAI, REST) — *API integration and orchestration*  
-- Obsidian para organização de conhecimento (2nd brain) — *notes & knowledge graph*  
-- Git/GitHub — fluxo de commits, branches e PRs — *version control workflows*
+- 🐍 **Python** — scripts, automações e ETL leve  
+- 🤖 **LLMs + RAG pipelines** — provas de conceito e prototipagem  
+- 🧮 **Pandas / Data Engineering básico** — manipulação e transformação de dados  
+- ⚙️ **Integração com APIs** (OpenAI, REST) — orquestração de dados e automação  
+- 🧭 **Obsidian** — organização de conhecimento (2nd brain / knowledge graph)  
+- 💻 **Git / GitHub** — fluxo de commits, branches e PRs  
 
 ---
 
-## ⭐ Projetos em destaque (placeholders) / Featured Projects
-- **Experiências-IA** — protótipos de agentes e POCs com LLMs. *(placeholder — vou popular em breve.)*  
-- **Automação-Financeira** — análises simples de comportamento financeiro (ex.: ratio, visualizações). *(coming soon)*  
-- **Saúde-Data-Pipeline** — POC para anonimização e análise de dados clínicos (conceito). *(coming soon)*
+## ⭐ Projetos em destaque / Featured Projects
+*(placeholders — em breve serão populados com links reais)*  
 
-*Colocarei links diretos assim que os repositórios estiverem prontos e documentados.*  
-*I'll add direct links once the repos are ready and documented.*
+- **Experiências-IA** — protótipos de agentes e POCs com LLMs.  
+- **Automação-Financeira** — análises de comportamento financeiro e visualizações.  
+- **Saúde-Data-Pipeline** — POC para anonimização e análise de dados clínicos.
+
+> *I'll add direct links once the repos are ready and documented.*
 
 ---
 
 ## ⚡ Curiosidades & estilo de trabalho / Fun facts & working style
-- ☕ Funciona melhor depois da segunda xícara de café. / Performs best after the second coffee.  
-- 🧠 Gosto de dividir problemas grandes em microsprints. / I like breaking big problems into micro-sprints.  
-- 🤝 Prefiro código legível a “smart hacks” obscuros. / I prefer readable code over obscure “clever hacks”.  
-- 🐈 Tento explicar IA pro meu gato — ele julga minhas escolhas financeiras. / I try to explain AI to my cat — he judges my financial choices.
+- ☕ Funciona melhor depois da segunda xícara de café.  
+- 🧠 Gosto de dividir problemas grandes em microsprints.  
+- 🤝 Prefiro código legível a “smart hacks” obscuros.  
+- 🐈 Tento explicar IA pro meu gato — ele julga minhas escolhas financeiras.
 
 ---
 
 ## 📫 Contato / Contact
-- GitHub: [github.com/CeloSuliano](https://github.com/CeloSuliano)  
-- LinkedIn / Website / YouTube — *vou adicionar em breve.*  
-*Links públicos e contatos serão adicionados quando eu tiver os canais prontos.*
+- **GitHub:** [github.com/CeloSuliano](https://github.com/CeloSuliano)  
+- **LinkedIn / Website / YouTube:** *em breve.*  
+
+*Links públicos e contatos serão adicionados quando os canais estiverem prontos.*
 
 ---
 
 ## 📈 GitHub Stats
-(Se quiser, posso ativar os widgets oficiais — substitua `SEU-USUARIO` pelo seu usuário abaixo. Já deixei com seu usuário.)
+(Use `CeloSuliano` como username nos widgets abaixo)
 
-![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeloSuliano&show_icons=true&theme=tokyonight)
+![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeloSuliano&show_icons=true&theme=tokyonight&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CeloSuliano&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🧾 Notas finais / Final notes
-Se quiser, eu já insiro:  
-- um **snake contribution** animado (visual divertido para contribuições),  
-- cards visuais para cada projeto,  
-- e/ou transformar o banner SVG em uma versão *estática+otimizada* para carregamento mais rápido.
-
-*Me dá um toque e eu já ajusto o que você preferir.* 🚀
+Sinta-se à vontade para sugerir melhorias ou ideias para futuros projetos.  
+Posso adicionar futuramente:
+- 🐍 *Snake contribution graph* animado  
+- 💡 *Visual project cards* com links diretos  
+- 🎨 Versão otimizada do banner (dark mode / leve)
 
 ---
+
+<p align="center">
+  <sub>🚀 Desenvolvido com ❤️ por <strong>Marcelo.exe</strong></sub><br>
+  <sup><i>Coding Health & Finance with AI</i></sup>
+</p>
