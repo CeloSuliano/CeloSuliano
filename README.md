@@ -2,45 +2,9 @@
      BANNER (SVG inline)
      Copie exatamente como está abaixo para manter o visual.
    =========================== -->
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="170" viewBox="0 0 1200 170" preserveAspectRatio="xMidYMid slice">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0%" stop-color="#0f1724"/>
-      <stop offset="100%" stop-color="#071025"/>
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="8" stdDeviation="18" flood-color="#000000" flood-opacity="0.6"/>
-    </filter>
-  </defs>
-  <rect width="1200" height="170" rx="12" fill="url(#g)"/>
-  <g filter="url(#shadow)">
-    <rect x="20" y="20" width="1160" height="130" rx="10" fill="rgba(255,255,255,0.02)"/>
-  </g>
-
-  <!-- Left avatar circle -->
-  <g transform="translate(40, 25)">
-    <circle cx="60" cy="60" r="60" fill="#111827"/>
-    <text x="60" y="70" font-size="34" font-family="Segoe UI, Roboto, Arial" text-anchor="middle" fill="#e6edf3">🤖</text>
-  </g>
-
-  <!-- Title -->
-  <g transform="translate(150, 40)">
-    <text x="0" y="28" font-size="28" font-family="Segoe UI, Roboto, Arial" fill="#e6edf3" font-weight="700">🤖 Marcelo.exe</text>
-    <text x="0" y="60" font-size="16" font-family="Segoe UI, Roboto, Arial" fill="#9fb4c8">Coding Health & Finance with AI — Integrando Saúde, Finanças e IA</text>
-
-    <!-- small tag badges -->
-    <g transform="translate(0, 86)">
-      <rect x="0" y="0" rx="6" height="26" width="170" fill="#0b1220" />
-      <text x="12" y="18" font-size="13" font-family="Segoe UI, Roboto, Arial" fill="#8bdbe8">🐍 Python · 🤖 LLMs</text>
-
-      <rect x="190" y="0" rx="6" height="26" width="210" fill="#0b1220" />
-      <text x="202" y="18" font-size="13" font-family="Segoe UI, Roboto, Arial" fill="#f6c85f">💊 HealthTech · 💹 FinTech</text>
-
-      <rect x="420" y="0" rx="6" height="26" width="160" fill="#0b1220" />
-      <text x="434" y="18" font-size="13" font-family="Segoe UI, Roboto, Arial" fill="#d8b4ff">⚡ Git · APIs · Automação</text>
-    </g>
-  </g>
-</svg>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CeloSuliano/CeloSuliano/refs/heads/main/banner.svg" width="100%" alt="Marcelo.exe – Coding Health & Finance with AI" />
+</p>
 
 <!-- ===========================
      README principal
